@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Group-Id: io.jenkins.plugins
+Short-Name: stat-tool
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-11/12/2019 10:13-skygater)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+Support-Dynamic-Loading: true
+Libraries: /Users/skygater/Desktop/jenkins-plugin/stat-tool-plugin/src
+ /main/resources,/Users/skygater/Desktop/jenkins-plugin/stat-tool-plug
+ in/target/classes
+Resource-Path: /Users/skygater/Desktop/jenkins-plugin/stat-tool-plugin
+ /src/main/webapp
+

@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Built-By: skygater
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_221
+Extension-Name: stat-tool
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: stat-tool
+Implementation-Version: 1.0-SNAPSHOT
+Group-Id: io.jenkins.plugins
+Short-Name: stat-tool
+Long-Name: TODO Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.0-SNAPSHOT (private-11/11/2019 23:13-skygater)
+Hudson-Version: 2.164.1
+Jenkins-Version: 2.164.1
+Plugin-Dependencies: structs:1.19
+Plugin-Developers: 
+
